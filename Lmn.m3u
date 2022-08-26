@@ -1,0 +1,57 @@
+#EXTM3U
+
+#EXTINF:-1,LA: Warner
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/341_.m3u8?token=mL6o198uy3SnW4Tb7sz1fw&expires=1661473709&ip=138.185.139.197
+
+#EXTINF:-1,LA: htv
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/89_.m3u8?token=YvGSfw77EE21HWA0Vv54ZA&expires=1661476174&ip=138.185.139.197
+
+#EXTINF:-1,LA: COMEDY CENTRAL
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/91_.m3u8?token=E555bngbsnWOMKOZtxrb9A&expires=1661476747&ip=138.185.139.197
+
+#EXTINF:-1,LA: TNT
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=FFvRzQphHfrMMemZsK7WDg&expires=1661480361&ip=138.185.139.197
+
+#EXTINF:-1,LA: CARACOL HD
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/59_.m3u8?token=XTaqxgmlb016dtzK_ZA0nw&expires=1661480740&ip=138.185.139.197
+
+#EXTINF:-1,LA: STAR 
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=cx1gF2ozWAISVTnU1Oyqow&expires=1661481364&ip=138.185.139.197
+
+#EXTINF:-1,LA: TELENOVELA 
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/56_.m3u8?token=X2xMmQzJUzbDGlcQg4kuDw&expires=1661482362&ip=138.185.139.197
+
+#EXTINF:-1,LA: HISTORY
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/49_.m3u8?token=RUlqd9x_UaZ4DKnqdHmP6w&expires=1661482850&ip=138.185.139.197
+
+#EXTINF:-1,LA: Multipremier
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/81_.m3u8?token=Ohq558KLmmzezXmeAOp2xQ&expires=1661492494&ip=138.185.139.197
+
+#EXTINF:-1,LA: Latina
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/4_.m3u8?token=8hUluVakjyR3NuTcELwhVA&expires=1661492744&ip=138.185.139.197
+
+#EXTINF:-1,LA: Golden Plus
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=EPzin8HmEU2xP3WUZybowg&expires=1661492928&ip=138.185.139.197
+
+#EXTINF:-1, group title="peliculas", Liga de super mascotas
+
+https://delivery-node-waqqas.voe-network.net/hls/6oarn5w43e23cszcr2g43ptr52rwj7kjosu5xjihqxwbwlhqppt3o4xiahpa/index-v1-a1.m3u8
+
+#EXTINF:-1, group title="peliculas", La ciudad perdida
+
+https://delivery413.akamai-cdn-content.com/hls2/01/05260/v2ijg961na2k_l/index-v1-a1.m3u8?t=bQjLTOj6CT89khiYb6-se1EL07LIn3XohMNnU5H7QZQ&s=1661543421&e=10800&f=26303236&srv=sto120&client=45.71.200.247
+
+#EXTINF:-1,LA: gol tv
+
+http://cdn88.telerium.fun:2052/live-2/284/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDIyIDExOjA2OjEwIFBNJmhhc2hfdmFsdWU9RjAxRkVDTXVnQUx6OHRyRkxrcGtTdz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1___http://cdn88.telerium.fun:2052/live-2/284/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDIyIDExOjA2OjEwIFBNJmhhc2hfdmFsdWU9WHc0RWR2OHcwaDcvTE4wYWpCVzdzUT09JnZhbGlkbWludXRlcz0zJnN0cm1fbGVuPTEwJmlkPTEzODE4NTEzOTE5Nw==&2
